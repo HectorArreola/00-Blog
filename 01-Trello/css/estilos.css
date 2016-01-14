@@ -1,0 +1,299 @@
+body{
+    
+    font-family: Arial, Halvetica, sans-serif;
+    margin: 0 auto;
+    width: 100%;
+}
+.seccion1{
+    text-align: center;
+}
+.logo{
+    margin-top: 80px;
+}
+.texto1{
+    height: 102px;
+    width: 540px;
+    font-size: 30px;
+    margin: 0 auto;
+   
+}
+
+.parrafo1{
+    width: 540px;
+    height: 92px;
+    margin: 0 auto;
+    font-size: 19.7px;
+}
+.boton1{
+    background-color: #61bd4f;
+    height: 52px;
+    width: 270.25px;
+    font-size: 25px;
+    border: 0px;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    border-radius: .5em;
+    position: relative;
+    text-decoration: none;
+    
+}
+.inicio{
+    font-size: 25px;
+    color: gray;
+    height: 67px;
+    width: 247px;
+    text-decoration: underline;
+    
+}
+.seccion2{
+    text-align: center;
+    background-color: #0079bf;
+  }
+.texto2{
+  font-size: 21px;
+    color: white;
+    width: 585px;
+    height: 56px;
+    margin: 0 auto;
+}
+
+.img1{
+    width: 1200px;
+    height: 690px;
+    }
+.texto3{
+    font-size: 21px;
+    color: white;
+    width: 585px;
+    height: 140px;
+    margin: 0 auto;
+}
+.texto4{
+    font-size: 21px;
+    color: white;
+    width: 585px;
+    height: 84px;
+    margin: 0 auto;
+}
+.seccion3{
+    text-align: center;
+}
+.texto5{
+    width: 585px;
+    height: 224px;
+    font-size: 22px;
+    margin: 0 auto;
+    
+}
+.boton2{
+    background-color: transparent;
+    height: 54px;
+    width: 382px;
+    font-size: 21px;
+    border-style: solid;
+    font-weight: bold;
+    color: #5e98ba;
+    display: inline-block;
+    border-radius: .5em;
+    position: relative;
+    text-decoration: none;
+}
+.img2{
+    width: 889px;
+    height: 589px;
+}
+.seccion4{
+    text-align: center;  
+    background-color: #e4f0f6;
+    min-height: 350px;;
+}
+.divimg3{
+    float: right;
+    width: 461px;
+    height: 248px;
+   
+}
+.texto6{
+    text-align: left;
+    margin: 0 auto;
+    font-size: 20px;
+    width: 735px;
+    height: 112px;
+}
+.appstore{
+    margin: 0 auto;
+    width: 182px;
+    height: 54px;
+}
+.playstore{
+    margin: 0 auto;
+    width: 155px;
+    height: 54px;
+}
+.divboton3{
+    width:900px;
+}
+.boton3{
+     background-color: transparent;
+    height: 54px;
+    width: 280px;
+    font-size: 21px;
+    border-style: solid;
+    font-weight: bold;
+    color: #5e98ba;
+    display: inline-block;
+    border-radius: .5em;
+    text-decoration: none;
+    margin:0 auto;
+    
+    
+}
+.seccion5{
+    text-align: center;
+    height: 350px;
+}
+.img4{
+    float: right;
+    width: 285px;
+    height: 228px;
+}
+.seccion6{
+    text-align: center;
+    background-color: #0079bf;
+    height: 428px;
+}
+.texto7{
+    font-size: 20px;
+    width: 1300px;
+    height: 88px;
+}
+.divimgs{
+    width: 1300px;
+    height: 160px;
+    display: block;
+}
+.img5{
+    width: 173px;
+    height: 60px;
+}
+.img6{
+    width: 288px;
+    height: 60px;
+}
+.img7{
+    width: 60px;
+    height: 60px;
+}
+.img8{
+    width: 174px;
+    height: 60px;
+}
+.img9{
+    width: 113px;
+    height: 60px;
+}
+.img10{
+    width: 162px;
+    height: 60px;
+}
+.img11{
+    width: 130px;
+    height: 60px;
+}
+.img12{
+    width: 158px;
+    height: 60px;
+}
+.img13{
+    width: 257px;
+    height: 60px;
+}
+.seccion7{
+    text-align: center;
+    background-color: #42548e;
+    height: 382px;
+    width: 100%;
+}
+.divimg14{
+   height: 180px;
+    margin-left: 315px;
+   ;
+}
+.img14{
+    float: left;
+    width: 346px;
+    height: 130px;
+   margin: 0 auto;
+    
+}
+
+.texto8{
+    text-align: left;
+   margin: 0 auto;
+    font-size: 20px;
+    color: white;
+    width: 585px;
+    height: 84px;
+}
+.boton3{
+     background-color: transparent;
+    height: 54px;
+    width: 441px;
+    font-size: 21px;
+    border-style: solid;
+    font-weight: bold;
+    color: #5e98ba;
+    display: inline-block;
+    border-radius: .5em;
+    position: relative;
+    text-decoration: none;
+    
+}
+.seccion8{
+    text-align: center;
+    height: 400px;
+    width: 100%;
+}
+
+.texto9{
+    margin: 0 auto;
+    font-size: 21px;
+    height: 168px;
+    width: 585px;
+   
+}
+.seccion9{
+     text-align: center;
+    background-color: #0079bf;
+}
+.divtaco{
+    width: 900x;
+    text-align: center;
+}
+.img15{
+    height: 184px;
+    width: 151px;
+    text-align: center;
+}
+.texto10{
+    float: right;
+    width: 800px;
+    height: 56px;
+    margin-top: 80px;
+    font-size: 25px;
+    text-align: justify;
+    
+}
+footer{
+    text-align: center;
+    color: #999;
+    font-size: 20px;
+}
+li{
+    display: inline;
+    text-decoration:underline;
+}
+.styleA{
+    color: #999;
+}
