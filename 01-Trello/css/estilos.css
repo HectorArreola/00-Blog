@@ -6,6 +6,7 @@ body{
 }
 .seccion1{
     text-align: center;
+    height: 550px;
 }
 .logo{
     margin-top: 80px;
@@ -17,12 +18,14 @@ body{
     margin: 0 auto;
    
 }
-
 .parrafo1{
     width: 540px;
     height: 92px;
     margin: 0 auto;
     font-size: 19.7px;
+}
+.divboton1{
+    padding-top: 30px;
 }
 .boton1{
     background-color: #61bd4f;
@@ -38,6 +41,9 @@ body{
     text-decoration: none;
     
 }
+.divsesion{
+    padding-top: 15px;
+}
 .inicio{
     font-size: 25px;
     color: gray;
@@ -51,18 +57,20 @@ body{
     background-color: #0079bf;
   }
 .texto2{
+    padding-top: 15px;
+    padding-bottom: 15px;
   font-size: 21px;
     color: white;
     width: 585px;
     height: 56px;
     margin: 0 auto;
 }
-
 .img1{
     width: 1200px;
     height: 690px;
     }
 .texto3{
+    padding-top: 15px;
     font-size: 21px;
     color: white;
     width: 585px;
@@ -80,6 +88,7 @@ body{
     text-align: center;
 }
 .texto5{
+    padding-top: 20px;
     width: 585px;
     height: 224px;
     font-size: 22px;
@@ -106,15 +115,17 @@ body{
 .seccion4{
     text-align: center;  
     background-color: #e4f0f6;
-    min-height: 350px;;
+    min-height: 400px;;
 }
 .divimg3{
+    padding-top: 100px;
     float: right;
     width: 461px;
     height: 248px;
    
 }
 .texto6{
+    padding-top: 100px;
     text-align: left;
     margin: 0 auto;
     font-size: 20px;
@@ -132,20 +143,20 @@ body{
     height: 54px;
 }
 .divboton3{
-    width:900px;
+    padding-right: 100px;
 }
 .boton3{
-     background-color: transparent;
+    background-color: transparent;
     height: 54px;
-    width: 280px;
     font-size: 21px;
     border-style: solid;
     font-weight: bold;
     color: #5e98ba;
-    display: inline-block;
+    display: block;
     border-radius: .5em;
     text-decoration: none;
     margin:0 auto;
+   
     
     
 }
@@ -164,6 +175,7 @@ body{
     height: 428px;
 }
 .texto7{
+    padding-top: 20px;
     font-size: 20px;
     width: 1300px;
     height: 88px;
@@ -216,6 +228,7 @@ body{
     width: 100%;
 }
 .divimg14{
+    padding-top: 100px;
    height: 180px;
     margin-left: 315px;
    ;
@@ -227,7 +240,6 @@ body{
    margin: 0 auto;
     
 }
-
 .texto8{
     text-align: left;
    margin: 0 auto;
@@ -255,8 +267,8 @@ body{
     height: 400px;
     width: 100%;
 }
-
 .texto9{
+    padding-top: 100px;
     margin: 0 auto;
     font-size: 21px;
     height: 168px;
